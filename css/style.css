@@ -46,16 +46,16 @@ body {
 }
 .header-icons li:first-child{
 	margin-left: 0;
-}
+}4
 .header-icons li{
 	float:left;
 	margin-left:15px;
 }
 .header-icons li a {
 	height: 26px;
-	width: 26px;
+	width:  26px;
 	display: block;
-	background:url(../images/phone.png);
+	background:url(../images/call.png);
 }
 
 /*--- social-icons ----*/
@@ -548,6 +548,17 @@ big {
 }
 .footer1{
 	padding: 4% 4%;
+}
+
+.footer-icons li{
+	float:right;
+	margin-left:15px;
+}
+.footer-icons li a {
+	height: 36px;
+	width: 114px;
+	display: block;
+	background:url(../images/safe&union.png);
 }
 #toTop {
 	display: none;
